@@ -1,0 +1,4 @@
+# Tags: dev, dev-20211220200919-b1c1fe528a0c39eeb7f44219fffa74bd9ee75501, dev-20211214121505-8ee01aaff049761a0edb199f1d01d1dd61a62363
+FROM mozilla/releng-signingscript:dev
+FROM mozilla/releng-signingscript:dev-20211220200919-b1c1fe528a0c39eeb7f44219fffa74bd9ee75501
+FROM mozilla/releng-signingscript:dev-20211214121505-8ee01aaff049761a0edb199f1d01d1dd61a62363
